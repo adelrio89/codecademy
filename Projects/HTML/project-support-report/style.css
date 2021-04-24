@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url('"https://drive.google.com/uc?export=view&id=1uBY1LZpAsdEF_L_6QjRH55QN4LswdgAJ"');
+	background-repeat: repeat;
+	height: 100%;
+	width: 80%;
+	margin: 0 auto;
+	overflow: scroll;
+	font-family: Calibri;
+}
+
+header {
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 15px;
+}
+
+header h1 {
+	text-align: center;
+}
+
+main {
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 15px;
+}
+
+footer {
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 15px;
+}
+
+nav	{
+	text-align: center;
+}
+
+table, tr, td {
+	border: 0.1px solid blue;
+	align-items: center;
+}
+
+
+
